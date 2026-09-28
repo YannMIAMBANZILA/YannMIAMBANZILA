@@ -10,7 +10,7 @@
 ### 🚀 À propos de moi
 Étudiant en Mastère 1 Tech Lead à Digital Campus, je conçois des solutions web robustes, sécurisées et automatisées. Passionné par l'alliance entre code moderne, sécurité applicative et intelligence artificielle.
 
-- 🛡️ **Cybersécurité ():** Sécurisation web (bonnes pratiques OWASP), gestion sécurisée des flux et authentifications.
+- 🛡️ **Cybersécurité :** Sécurisation web (bonnes pratiques OWASP), gestion sécurisée des flux et authentifications.
 - 🤖 **IA & Automatisation :** Workflows automatisés (n8n, Python), intégration d'APIs LLM & agents.
 - 🌐 **Web Fullstack :** Conception d'applications réactives, architectures API et bases de données.
 
